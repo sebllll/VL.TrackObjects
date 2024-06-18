@@ -491,7 +491,7 @@
     ************************ ColorObject ************************
 
 -->
-          <Node Name="ColorObject" Bounds="1613,283" Id="LqXaiBj0L2UMEJW0cDWkXb">
+          <Node Name="ColorObject" Bounds="1658,297" Id="LqXaiBj0L2UMEJW0cDWkXb">
             <p:NodeReference>
               <Choice Kind="RecordDefinition" />
             </p:NodeReference>
@@ -658,7 +658,7 @@
             </p:TypeAnnotation>
           </Pad>
           <ControlPoint Id="N0uQ3O4y5SVQbVbAbnMRcW" Bounds="654,1079" />
-          <Overlay Id="SDy9c2bagRJPDJwdhcH8vB" Name="ColorObject" Bounds="792,110,1082,565">
+          <Overlay Id="SDy9c2bagRJPDJwdhcH8vB" Name="ColorObject" Bounds="766,110,1136,565">
             <p:ColorIndex p:Type="Int32">5</p:ColorIndex>
           </Overlay>
           <!--
@@ -1052,7 +1052,7 @@
             <Pin Id="OnUOmDjILQqQUrPW7OF1pw" Name="Output" Kind="OutputPin" />
             <Pin Id="OGcNyPvAFp1MSdtBqF9xrz" Name="Node Context" Kind="InputPin" IsHidden="true" />
           </Node>
-          <Pad Id="SlUb4Bga6sgM24VxyNEAAg" Bounds="1405,202,111,42" ShowValueBox="true" isIOBox="true" Value="adaptive 'clone' for Colorobject:">
+          <Pad Id="SlUb4Bga6sgM24VxyNEAAg" Bounds="1405,202,111,42" ShowValueBox="true" isIOBox="true" Value="adaptive 'Clone' for Colorobject:">
             <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
               <Choice Kind="TypeFlag" Name="String" />
             </p:TypeAnnotation>
@@ -1066,6 +1066,9 @@
               <Choice Kind="TypeFlag" Name="Integer32" />
             </p:TypeAnnotation>
           </Pad>
+          <Overlay Id="AAkEnQN6yXyMBZxiJoBaLj" Name="The thing we want to track" Bounds="1576,197,270,143">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
         </Canvas>
         <Patch Id="DTdV7iwJB31N0rCa9HWLYF" Name="Create" />
         <Patch Id="BKCi1Ma0sgfPxEZSZW3dGa" Name="Update" />
