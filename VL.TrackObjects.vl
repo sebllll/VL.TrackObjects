@@ -582,7 +582,7 @@
                 <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
               </p:ValueBoxSettings>
             </Pad>
-            <Node Bounds="258,765,183,232" Id="OZOMwHNL3kcPmPRd3Vqq4o">
+            <Node Bounds="258,765,183,242" Id="OZOMwHNL3kcPmPRd3Vqq4o">
               <p:NodeReference LastCategoryFullName="Primitive" LastDependency="Builtin">
                 <Choice Kind="StatefulRegion" Name="Region (Stateful)" Fixed="true" />
                 <Choice Kind="ApplicationStatefulRegion" Name="ForEach" />
@@ -590,14 +590,14 @@
               </p:NodeReference>
               <Pin Id="NbNoF4ZHHfVQK4Xthse6D8" Name="Break" Kind="OutputPin" />
               <ControlPoint Id="Ed3d0dsDkAvLnEKF0x02RO" Bounds="295,771" Alignment="Top" />
-              <ControlPoint Id="J58EFwU5p5iQFTzunOqOIy" Bounds="295,991" Alignment="Bottom" />
+              <ControlPoint Id="J58EFwU5p5iQFTzunOqOIy" Bounds="295,1001" Alignment="Bottom" />
               <Patch Id="GJvfHiBpIvEQEGcjxvGMmw" ManuallySortedPins="true">
                 <Patch Id="I0dYmmJzotRNI7HUrvx77e" Name="Create" ManuallySortedPins="true" />
                 <Patch Id="P737wSMlnT1NzoxP2RVQEh" Name="Update" ManuallySortedPins="true">
                   <Pin Id="US0xo1kzPWrLBNEBOc0D7i" Name="Keep" Kind="OutputPin" />
                 </Patch>
                 <Patch Id="DyOPFtA0lh3LUXJfaKtsyn" Name="Dispose" ManuallySortedPins="true" />
-                <ControlPoint Id="QU76aQ31pmvPW7aG8VXOfU" Bounds="396,980" />
+                <ControlPoint Id="QU76aQ31pmvPW7aG8VXOfU" Bounds="396,990" />
                 <Node Bounds="293,811,68,26" Id="DGqSBoCETTaLePSaH5q4WA">
                   <p:NodeReference LastCategoryFullName="Animation.TrackObjects.TrackedObject" LastDependency="VL.TrackObjects.vl">
                     <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
@@ -1055,7 +1055,7 @@
             <Patch Id="NU3K595ZQ0INu3R8iZeRty" Name="RemoveMe">
               <Pin Id="OH3T2TdxzriPkTrfBWkaqb" Name="RemoveMe" Kind="OutputPin" />
             </Patch>
-            <Slot Id="NJOhyNpuo2MOE5Ji7hGPlH" Name="age" />
+            <Slot Id="NJOhyNpuo2MOE5Ji7hGPlH" Name="Ghost age" />
             <Link Id="Or1GoBAjh1sLxvMkJNpahO" Ids="H1MWcuVDiVwNGsMVra2EFD,E3pDZbnKz5oP0xiprHcPNu" />
             <Link Id="HBGGwvnam5jLJciyZqFFay" Ids="N4IL4rDYZeNNQ2toHiWj6q,Au8GzJlHO7RNtbOtmZKi4O" />
             <Link Id="HAU1KHiQONsPZyzUevCit7" Ids="KZ2gC3fVb1cPN4HrvuFHoF,Qe8g9zl3Y7hPThWpXfuagp" />
